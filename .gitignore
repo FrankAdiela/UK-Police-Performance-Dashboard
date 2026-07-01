@@ -1,1 +1,19 @@
+# macOS
+.DS_Store
 
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Visual Studio Code
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+
+# Power BI temporary files
+*.tmp
+
+# Logs
+*.log
